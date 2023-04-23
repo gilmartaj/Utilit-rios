@@ -8,3 +8,11 @@
 
 * <b>Compilação:</b> javac BaixadorMultithread_v2.java
 * <b>Execução:</b> java BaixadorMultithread_v2 [quantidade_threads] [nome_arquivo]
+
+<br>
+
+### Dow3xk.java
+* Baixador multithread / continua "downloads" de onde parou
+* Versão 2
+* <b>Compilação:</b> javac Dow3xk.java
+* <b>Execução:</b> java Dow3xk [quantidade_threads] [nome_arquivo]
