@@ -17,7 +17,7 @@ import java.util.Properties;
 * Execução: java BaixadorMultithread_v2 [quantidade_threads] [nome_arquivo]
 *
 */
-public class BaixadorMultithread_v2{
+public class Dow3xkv2{
     public static int MAXIMO_TENTATIVAS = 100;
     
     
