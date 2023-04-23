@@ -13,6 +13,6 @@
 
 ### Dow3xk.java
 * Baixador multithread / continua "downloads" de onde parou
-* Versão 2
+* Versão 1
 * <b>Compilação:</b> javac Dow3xk.java
 * <b>Execução:</b> java Dow3xk [quantidade_threads] [nome_arquivo]
