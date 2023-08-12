@@ -7,4 +7,4 @@
 * Na versão 1, eram baixados arquivos separados em cada "thread" e depois juntados em um novo arquivo
 
 * <b>Compilação:</b> javac BaixadorMultithread_v2.java
-* <b>Execução:</b> java BaixadorMultithread_v2 [quantidade_threads] [nome_arquivo]
+* <b>Execução:</b> java BaixadorMultithread_v2 [link_arquivo] [quantidade_threads] [nome_arquivo]
